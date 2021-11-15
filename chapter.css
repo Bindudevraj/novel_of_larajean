@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700;800;900&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    background-image: url(backimage.jpg);
+    background-repeat: no-repeat;
+    background-size: 1600px 1200px;
+    font-family: 'Kaushan Script', cursive;
+}
+h2{
+    color: cornsilk;
+    text-align: center;
+    font-size: 40px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+table, th, td {
+    margin-left: 30px;
+    margin-right: 10px;
+    text-align: center;
+    border: 1px solid rgb(238, 231, 231);
+    border-collapse: collapse;
+    table-layout: fixed;
+    color: cornsilk;
+    width:95%;
+    height:80px;
+    font-size: 20px;
+    font-weight: 600;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+a{
+    background-color: transparent;
+    color: rgb(238, 231, 231);
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: 600;
+}
+a:hover{
+    text-decoration: underline;
+    color: rgb(74, 144, 177);
+    font-size: 25px;
+    font-weight: 800;
+}
