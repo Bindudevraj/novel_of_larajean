@@ -22,19 +22,12 @@ a {
     text-decoration: none;
     display: inline-block;
     padding: 8px 16px;
+    background-color: cadetblue;
+    color: black;
 }
 a:hover {
-    background-color: rgb(8, 32, 29);
+    background-color: rgb(18, 24, 24);
     color: black;
+    font-weight: 900;
     font-size: 20px;
-  }
-div a .previous {
-    background-color: #f1f1f1;
-    color: black;
-    float: left
-  }
-div a .next {
-    background-color: #f1f1f1;
-    color: black;
-    float: right;
   }
